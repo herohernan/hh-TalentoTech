@@ -1,0 +1,26 @@
+algortimmos de IA
+=================
+
+* algoritmos de búsqueda
+    busqueda en amplitud: --
+    busqueda en profundidad: explora un camino en profundidad antes de retroceder
+    busqueda informada: encontrar la ruta más corta
+* algoritmos de optimización
+    genéticos: simulan la selección natural para resolver problemas de optimización
+    enfriamiento simulado: busca una aprox a la solución optima
+* redes neuronales artificiales
+    perceptrón: para clasificación binaria
+    neuronales multicapa: varias capas para resolver problemas no lineales
+* algortimos de aprendizaje supervisado
+    regresión lineal: ajusta una linea recta para predecir valores continuos
+    ...
+* algortimos de aprendizaje no supervisado
+    clustering (agrupamiento): agrupa datos no etiquetados en clusters
+    reducción dimensionalidad: busca reducir el número de variables en un conjunto de datos
+* algortimos de aprendizaje por refuerzo
+    Q-Learning: hace q un agente aprenda por prueba y error
+    Algoritmo de política de gradiente: ajusta la política para maximizar la recompenza
+* algortimos de procesamiento de lenguaje natural
+    modelo de lenguaje: ayudan a las máquinas a entender y generar lenguaje humano
+    análsis de sentimiento: determina la actitud o emocones de un texto
+    

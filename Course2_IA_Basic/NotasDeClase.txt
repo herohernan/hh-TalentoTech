@@ -1,0 +1,33 @@
+# Profe
+    Jaidiver
+
+# Fechas importantes
+    sábado de 1 a 5
+    
+    lunes y martes 11/Febrero se presenta al proyecto
+    se debe sube a la plataforma
+
+    20/febrero tercera misión
+    28/febrero se finaliza todo (finaliza con machine learning)
+
+    3/marzo init con inglés pasamos a nivelatorios
+    >> habilidades de poder (qué es eso?) - 12/marzo
+
+# Clase magistral 1
+    chatgpt hace razonamiento no supervisado porque lo que hace es buscar info de internet
+    refuerzo - aprendizaje por experiencia (un tipo)
+
+# Temario:
+    *algoritmo de búsqueda
+    *algoritmo de optimización
+    *Redes neuronales artificiales
+    *algoritmos de aprendizaje supervisado
+    *aprendizaje no supervisado
+    *Algoritmo de aprendizaje de refuerzo
+    *Algoritmo de procesamiento de lenguaje natural
+
+# Importante aprender y repasar:
+    *Análisis numérico
+    *Redes neuronales
+    *red con google
+    *repasar estadistica y estadistica descriptiva
