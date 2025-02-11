@@ -1,0 +1,7 @@
+#   JugadorDetectado = True/False	
+#   VidaDelNPC = 0-100% (<30 poca)	
+#   VidaDelJugador = 0-100% (<30 poca)
+#   CercaniaConElJugador = mt (<10mt cerca) 
+#   ExperienciaDelJugador	= LvL (>80 difícil)
+#   ArmaduraDelJugador = 0-100% (<50 baja)
+#   RefuerzosCercanos = 1,2,3,... (>3 hay refuerzos suficientes)
