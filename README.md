@@ -31,5 +31,5 @@ pip install <library>
 |sklearn     |           |
 
 > [!TIP]
-> To check what libraries are installed, use the next command in the shell:
+> To check what libraries are installed, use the next command in the shell: <br>
 > `pip list`
