@@ -1,6 +1,6 @@
 # "Talento Tech del Oriente" course 
 
-## Course2: IA - Level Basic [@herohernan]
+## Course: IA - Level Basic [@herohernan]
 
 https://campus.talentotechoriente.com/#/auth/login
 
@@ -16,7 +16,7 @@ Before start to use python and execute the files in local, we need to configure 
 3.1. Pylance
 3.2. Python
 3.3. Python Debugger
-3.4. TODO: add others extensions
+3.4. TODO_HH: add others extensions
 
 4. Install the necessary libraries for the exercises:
 
